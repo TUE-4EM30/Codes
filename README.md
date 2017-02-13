@@ -1,2 +1,2 @@
 # Codes
-Codes accompanying Scientific Computing for Mechanical Engineering
+This repository contains various codes accompanying the Scientific Computing for Mechanical Engineering course.
